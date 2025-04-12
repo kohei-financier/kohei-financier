@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, I'm Kohei! 👋
 
 <p align="left">
   <a href="https://github.com/kohei-financier">
@@ -15,14 +15,12 @@
   </a>
 </p>
 
-## Stats
-![kohei-financier's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohei-financier&theme=graywhite_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kohei-financier&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kohei-financier&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kohei-financier&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kohei-financier&theme=graywhite)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kohei-financier&theme=graywhite&utcOffset=9)
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,py,django,java,html,css,js,tailwind,docker,git,github)](https://skillicons.dev)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kohei-financier&theme=gruvbox)
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=kohei-financier&border_radius=5&date_format=%5BY.%5Dn.j&card_width=700&type=png)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kohei-financier&theme=graywhite)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kohei-financier&height=350&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
