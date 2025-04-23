@@ -1,19 +1,9 @@
 ## Hello, I'm Kohei! 👋
 
-<p align="left">
-  <a href="https://github.com/kohei-financier">
-    <img height="20" src="https://komarev.com/ghpvc/?username=kohei-financier" />
-  </a>
-  <a href="https://github.com/kohei-financier">
-    <img height="20" src="https://img.shields.io/github/followers/kohei-financier?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="http://qiita.com/kohei-financier">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kohei_financier/posts.svg" />
-  </a>
-  <a href="http://qiita.com/kohei-financier">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kohei_financier/contributions.svg" />
-  </a>
-</p>
+
+<a href="https://qiita.com/kohei_financier"><img src="https://badgen.org/img/qiita/kohei_financier/articles?style=for-the-badge" alt="Articles" /></a>
+<a href="https://zenn.dev/financier_k0hei?tab=scraps"><img src="https://badgen.org/img/zenn/financier_k0hei/scraps?style=for-the-badge" alt="Scraps" /></a>
+<a href="https://atcoder.jp/users/mitchan00?contestType=algo"><img src="https://badgen.org/img/atcoder/mitchan00/rating/algorithm?style=for-the-badge" alt="Rating" /></a>
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,py,django,java,html,css,js,tailwind,docker,git,github)](https://skillicons.dev)
